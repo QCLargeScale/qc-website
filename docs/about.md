@@ -1,7 +1,8 @@
-# About Us
+# About:
 
-We are a research-driven project focused on quantum computing and scalable numerical methods.
+This work is about research-driven project focused on quantum computing and solving large scale linear systems.
 
-## Team
-- Researcher 1
-- Researcher 2
+
+## Funding
+
+ - Slovenian Research & Innovation Agency (ARIS) under the Early-Stage Researchers funding scheme, grant No. ARIS-RZK-2025/54.

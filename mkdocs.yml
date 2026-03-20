@@ -3,11 +3,12 @@ site_description: Hybrid solutions for scientific computing
 site_url: https://qclargescale.github.io/qc-website/
 repo_url: https://github.com/QCLargeScale/qc-website.git
 repo_name: QCLargeScale
+copyright: © 2026 Ezhilmathi Krishnasamy · Funded by ARIS (Grant No. ARIS-RZK-2025/54)
 
 theme:
   name: material
 
-  logo: assets/logo.png
+  logo: assets/logo.jpeg
   favicon: assets/favicon.png
 
   font:
@@ -47,11 +48,10 @@ plugins:
 
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/your-org
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com
-
+      link: https://www.linkedin.com/in/ezhilmathi-krishnasamy-566a8524/
+    - icon: fontawesome/brands/github
+      link: https://github.com/ezhilmathik
 extra_css:
   - stylesheets/extra.css
 
@@ -71,13 +71,9 @@ markdown_extensions:
 
 nav:
   - Project: index.md
-  - About:
-      - Overview: about/index.md
-      - Team: about/team.md
-      - Partners: about/partners.md
+  - Objectives:
+      - Overview: objectives/index.md
+  - Project Plan:
+      - Overview: plan/index.md
   - Publications:
       - Overview: publications/index.md
-  - Training:
-      - Overview: training/index.md
-  - Events:
-      - Upcoming: events/index.md

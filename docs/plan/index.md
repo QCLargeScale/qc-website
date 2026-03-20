@@ -1,0 +1,58 @@
+Present the entire structure of the work plan.
+
+---
+
+## WP1: Monitoring and Evaluation
+
+### Task 1.1: Continuous Monitoring
+Continuously monitor the project to ensure that objectives are met as planned and within the timeline. Take necessary actions in coordination with the funding authority and stakeholders if any deviations occur.
+
+### Task 1.2: Evaluation of Deliverables
+Regularly review deliverables, such as publications and training materials, to assess their effectiveness and identify areas for improvement.
+
+---
+
+## WP2: Quantum Simulators
+
+### Task 2.1: Framework Selection and Setup
+Select an appropriate software framework for the quantum simulator and set it up in the development environment. Ensure that it supports relevant quantum algorithms for solving linear systems.
+
+### Task 2.2: Algorithm Development and Testing
+Develop quantum algorithms tailored for solving linear systems and conduct rigorous testing to evaluate their performance and accuracy within the simulation environment.
+
+---
+
+## WP3: Hybrid Computing
+
+### Task 3.1: Architecture Design for Hybrid Systems
+Design an architecture that integrates classical computing and quantum resources, ensuring efficient communication and coordination between the two systems while defining performance metrics.
+
+### Task 3.2: Testing and Optimization of Hybrid Solutions
+Implement initial hybrid algorithms and conduct tests to identify noise sources and performance bottlenecks. Optimize the solutions based on the test results to enhance overall system efficiency.
+
+---
+
+## WP4: Standalone Quantum Computing
+
+### Task 4.1: Capability Assessment of Quantum Systems
+Evaluate existing standalone quantum computers to determine their capabilities in solving linear systems, including an analysis of current hardware specifications and algorithm compatibility.
+
+### Task 4.2: Comparative Analysis and Benchmarking
+Conduct a comparative analysis of standalone quantum systems, classical computing solutions, and hybrid systems. Develop benchmarks to quantify their performance in solving linear systems.
+
+---
+
+## WP5: Dissemination
+
+### Task 5.1: Publication of Research Findings
+Prepare and submit scientific articles to peer-reviewed journals to share the project’s findings and insights, ensuring they contribute to the broader academic and professional community.
+
+### Task 5.2: Stakeholder Engagement and Training Workshops
+Organize workshops and training sessions for stakeholders to disseminate knowledge, share resources, and facilitate collaboration on project outcomes, ensuring wider dissemination of the project’s benefits.
+
+
+## 📄 Work Plan Figure
+
+The following figure illustrates the overall structure of the project work plan.
+
+![Work Plan](../figures/work-plan.png)

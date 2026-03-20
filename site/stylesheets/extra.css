@@ -1,0 +1,32 @@
+/* gradient hero feel */
+.md-header {
+  background: linear-gradient(90deg, #0ea5e9, #14b8a6);
+}
+
+/* buttons */
+.md-button {
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+/* cards (homepage) */
+.md-typeset .grid.cards > * {
+  border-radius: 14px;
+  transition: all 0.25s ease;
+  border: 1px solid rgba(0,0,0,0.05);
+}
+
+.md-typeset .grid.cards > *:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+/* headings */
+.md-typeset h1, .md-typeset h2 {
+  font-weight: 700;
+}
+
+/* cleaner spacing */
+.md-main__inner {
+  max-width: 1200px;
+}
