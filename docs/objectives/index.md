@@ -26,6 +26,7 @@ Addressing these questions will contribute to the ultimate goal of utilizing qua
 
 ### Objective 1: Quantum Simulator Framework
 Develop a software framework capable of testing and executing quantum simulators for solving large-scale linear systems. This includes advancements in:
+
 - Quantum algorithms  
 - Software development  
 - Performance analysis  
@@ -35,10 +36,12 @@ Develop a software framework capable of testing and executing quantum simulators
 
 ### Objective 2: Hybrid Computing Integration
 Implement a hybrid computing approach that integrates quantum and classical systems, building upon Objective 1. This will help identify:
+
 - Opportunities in hybrid computing  
 - Limitations and integration challenges  
 
 Key focus areas include:
+
 - Quantum algorithms  
 - Software development  
 - Performance analysis  
@@ -48,10 +51,12 @@ Key focus areas include:
 
 ### Objective 3: Standalone Quantum Computing
 Explore a fully quantum-based approach for solving linear systems, with emphasis on:
+
 - Minimizing computational errors  
 - Advancing quantum-only workflows  
 
 Focus areas include:
+
 - Quantum algorithms  
 - Software development  
 - Performance analysis  
@@ -61,6 +66,7 @@ Focus areas include:
 
 ### Objective 4: Training and Education
 Promote knowledge transfer through:
+
 - Short courses (online and in-person)  
 - Engagement of undergraduate and graduate students through projects  
 
@@ -70,6 +76,7 @@ This will encourage further research and innovation in the field.
 
 ### Objective 5: Dissemination
 Disseminate research outcomes through:
+
 - Peer-reviewed journal publications  
 - Conference proceedings  
 
@@ -82,13 +89,14 @@ Disseminate research outcomes through:
 **Objective:**  
 Develop a mathematical model and software framework for solving large linear systems within a quantum simulator environment.
 
-**Expected Outcomes:**  
-- Test solutions using quantum simulators  
-- Establish connections between linear systems and applications in:
-  - Machine learning (ML)  
-  - Artificial intelligence (AI)  
-  - Plasma physics  
+**Expected Outcomes:**
 
+- Test solutions using quantum simulators
+- Establish connections between linear systems and applications in:
+    - Machine learning (ML)
+    - Artificial intelligence (AI)
+    - Plasma physics
+  
 ---
 
 ## Year Two
@@ -97,6 +105,7 @@ Develop a mathematical model and software framework for solving large linear sys
 Develop and implement a hybrid quantum-classical approach for solving linear systems, including performance evaluation and accuracy assessment.
 
 **Expected Outcomes:**  
+
 - Implement quantum algorithms in hybrid settings  
 - Analyze performance and solution accuracy  
 - Begin exploring architectural considerations  
@@ -110,6 +119,7 @@ Develop and implement a hybrid quantum-classical approach for solving linear sys
 Enhance hybrid computing approaches while exploring fully quantum-based solutions, taking into account advancements in both classical and quantum architectures.
 
 **Expected Outcomes:**  
+
 - Improve solution accuracy  
 - Optimize computational performance  
 - Investigate the feasibility of fully quantum solutions  
