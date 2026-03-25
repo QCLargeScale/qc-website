@@ -75,5 +75,7 @@ nav:
       - Overview: objectives/index.md
   - Project Plan:
       - Overview: plan/index.md
+  - Presentations:
+      - Overview: presentations/index.md      
   - Publications:
       - Overview: publications/index.md
