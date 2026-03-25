@@ -52,9 +52,14 @@ extra:
       link: https://www.linkedin.com/in/ezhilmathi-krishnasamy-566a8524/
     - icon: fontawesome/brands/github
       link: https://github.com/ezhilmathik
+    
+  analytics:
+    provider: google
+    property: G-E2J6EXWD5C
+
 extra_css:
   - stylesheets/extra.css
-
+  
 markdown_extensions:
   - admonition
   - attr_list

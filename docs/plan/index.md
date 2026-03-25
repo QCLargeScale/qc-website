@@ -1,7 +1,3 @@
-Present the entire structure of the work plan.
-
----
-
 ## WP1: Monitoring and Evaluation
 
 ### Task 1.1: Continuous Monitoring
