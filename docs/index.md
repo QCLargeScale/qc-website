@@ -69,9 +69,9 @@ Quantum computing is inherently interdisciplinary. To achieve productive outcome
 - Quantum architecture research teams  
 - Experts in classical computer architecture  
 - Domain specialists in:
-  - Machine learning  
-  - Artificial intelligence  
-  - Plasma physics  
+   - Machine learning  
+   - Artificial intelligence  
+   - Plasma physics  
 
 Engaging with these diverse groups will foster a rich and productive research environment. Continuous knowledge exchange and collaboration are crucial for improving the effectiveness and impact of the project.
 
@@ -92,6 +92,14 @@ These initiatives will:
 Through this project, we aim to collaborate with national and EU-level partners to enhance infrastructure access and facilitate knowledge sharing.
 
 ---
+
+# Partners
+
+- Rudolfovo Science and Technology, Novo Mesto  
+- University of Ljubljana  
+- University of Luxembourg  
+- Simula Research Laboratory  
+- University of Oslo
 
 # References
 
