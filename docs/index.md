@@ -100,6 +100,7 @@ Through this project, we aim to collaborate with national and EU-level partners 
 - University of Luxembourg  
 - Simula Research Laboratory  
 - University of Oslo
+- 3TAV (Novo Mesto, Slovenia)
 
 # References
 
