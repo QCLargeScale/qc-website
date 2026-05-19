@@ -1,12 +1,12 @@
-# 🚀 Quantum Computing for Solving Large-Scale Linear Systems
+# 🚀 Quantum Computing for Scientific Computing 
 
-**Hybrid: Classical and Quantum solutions for scientific computing**
+**Hybrid: Classical and Quantum solutions for Solving Large-Scale Linear Systems**
 
 
 !!! info "Project Information"
     <div style="text-align: center;">
     <strong>Dr. Ezhilmathi Krishnasamy</strong><br>
-    Author and Principal Investigator<br>
+    Project Lead<br>
     Science and Technology Centre Novo Mesto
     
     Funded by the Slovenian Research & Innovation Agency (ARIS)  
