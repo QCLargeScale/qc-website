@@ -1,7 +1,7 @@
 site_name: QCLS
 site_description: Hybrid solutions for scientific computing
 site_url: https://qclargescale.github.io/qc-website/
-repo_url: https://github.com/QCLargeScale/qc-website.git
+repo_url: https://github.com/QCLargeScale/qc-website
 repo_name: QCLargeScale
 copyright: © 2026 Ezhilmathi Krishnasamy · Funded by ARIS (Grant No. ARIS-RZK-2025/54)
 
@@ -9,7 +9,6 @@ theme:
   name: material
   custom_dir: overrides
   logo: assets/logo.jpeg
-  favicon: assets/favicon.png
 
   font:
     text: Inter

@@ -1,0 +1,3 @@
+# Zensical bundles the Material theme and search natively.
+# Zensical is in alpha; pin a version (e.g. zensical==0.0.44) for reproducible builds.
+zensical
