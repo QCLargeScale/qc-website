@@ -11,8 +11,18 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  check:
+    name: Check documentation
     runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - run: test -f mkdocs.yml
+      - run: test -f docs/index.md
+
+  build:
+    name: Build documentation
+    runs-on: ubuntu-latest
+    needs: check
     steps:
       - uses: actions/checkout@v5
       - uses: actions/configure-pages@v5
@@ -26,11 +36,9 @@ jobs:
           path: site
 
   deploy:
-    needs: build
+    name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
     steps:
       - uses: actions/deploy-pages@v4
         id: deployment
