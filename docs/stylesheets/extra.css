@@ -63,3 +63,12 @@
 .md-main__inner {
   max-width: 2000px;
 }
+
+/* Wider documentation layout */
+.md-grid {
+  max-width: 3000px;
+}
+
+.md-main__inner {
+  max-width: 3000px;
+}
