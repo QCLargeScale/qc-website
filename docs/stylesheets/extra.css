@@ -49,3 +49,8 @@
   object-fit: contain;
   display: block;            /* removes the few pixels of baseline gap under inline imgs */
 }
+
+
+.md-grid {
+    max-width: 2000px;
+}
