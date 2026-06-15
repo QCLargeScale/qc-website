@@ -102,6 +102,20 @@ Through this project, we aim to collaborate with national and EU-level partners 
 - University of Oslo
 - 3TAV (Novo Mesto, Slovenia)
 
+
+# Contact
+
+[:fontawesome-solid-envelope:](mailto:ezhilmathi.krishnasamy@gmail.com "Email"){ .md-icon }
+[:fontawesome-brands-orcid:](https://orcid.org/0000-0002-1971-4973 "ORCID"){ .md-icon }
+[:fontawesome-brands-researchgate:](https://www.researchgate.net/profile/Ezhilmathi-Krishnasamy "R\
+esearchGate"){ .md-icon }
+[:fontawesome-brands-linkedin:](https://www.linkedin.com/in/ezhilmathi-krishnasamy-566a8524/ "Link\
+edIn"){ .md-icon }
+[:fontawesome-brands-github:](https://github.com/ezhilmathik "GitHub"){ .md-icon }
+
+
+
+
 # References
 
 [2] Hennessy, J. L., & Patterson, D. A. *Computer Architecture: A Quantitative Approach*.  

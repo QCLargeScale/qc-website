@@ -90,3 +90,11 @@
 .md-main__inner {
   max-width: 2000px;
 }
+
+/* Inline social icons (e.g. on the home page) */
+.md-icon svg {
+    width: 1.4rem;
+    height: 1.4rem;
+    vertical-align: middle;
+    margin-right: 0.4rem;
+}
