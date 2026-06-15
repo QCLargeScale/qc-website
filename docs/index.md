@@ -102,6 +102,7 @@ Through this project, we aim to collaborate with national and EU-level partners 
 - University of Oslo
 - 3TAV (Novo Mesto, Slovenia)
 
+---
 
 # Contact
 
@@ -115,8 +116,9 @@ edIn"){ .md-icon }
 
 
 
+---
 
-# References
+### References
 
 [2] Hennessy, J. L., & Patterson, D. A. *Computer Architecture: A Quantitative Approach*.  
 https://www.sciencedirect.com/book/9780123838728/computer-architecture  
