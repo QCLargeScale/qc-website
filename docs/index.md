@@ -7,14 +7,16 @@
     <div style="text-align: center;">
     <strong>Dr. Ezhilmathi Krishnasamy</strong><br>
     Project Lead<br>
-    Science and Technology Centre Novo Mesto
+    Science and Technology Centre Novo Mesto<br>
+
+    <strong>QCLS – Quantum Computing for Scientific Computing</strong><br>
+    Project ID: OP27.01207<br>
+
+    Co-funded by the European Union (ERDF) and
+    the Republic of Slovenia under the JR RZK call
+    implemented by ARIS.
+    </div>
     
-    Funded by the Slovenian Research & Innovation Agency (ARIS)  
-    under the Early-Stage Researchers funding scheme  
-    [(Grant No. ARIS-RZK-2025/54)](https://www.aris-rs.si/sl/inovac/rezultati/26/inc/Seznam-RZK-febr26.pdf)
-    </div>	
-
-
 # Overall Concept
 
 Prior to the advent of quantum computing, mathematical modeling using classical computers was employed to address problems arising from science and engineering. This process, known as **scientific computing**, involves solving complex computational problems using multiple processes.
@@ -89,18 +91,11 @@ These initiatives will:
 - Promote collaboration  
 - Accelerate technological development  
 
-Through this project, we aim to collaborate with national and EU-level partners to enhance infrastructure access and facilitate knowledge sharing.
-
 ---
 
-# Partners
+# Acknowledgements and Funding
 
-- Rudolfovo Science and Technology, Novo Mesto  
-- University of Ljubljana  
-- University of Luxembourg  
-- Simula Research Laboratory  
-- University of Oslo
-- 3TAV (Novo Mesto, Slovenia)
+This research is carried out within the **QCLS – Quantum Computing for Scientific Computing (Project ID: OP27.01207)** project, co-funded by the **European Union through the European Regional Development Fund (ERDF)** and the **Republic of Slovenia through the Ministry of Higher Education, Science and Youth**, under the **JR RZK call**, implemented by the **Slovenian Research and Innovation Agency (ARIS)**.
 
 ---
 

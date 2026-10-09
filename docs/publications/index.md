@@ -1,7 +1,26 @@
 ## 2026
 
- - Preprint published on [arXiv](https://arxiv.org/abs/2608.11882), August 12, 2026 – [Evaluating OpenMP Offloading for Intra-node Multi-GPU Programming across NVIDIA, AMD, and Intel Architectures: A 3D Heat Transfer Case Study](https://arxiv.org/abs/2608.11882)
+### Research Publications
 
- - Poster and abstract presentation at [ASHPC26](https://ashpc.eu/event/27/), April 8–10, 2026, Vienna, Austria, focusing on various aspects of High-Performance Computing (HPC) – [Quantum Computing for Scientific Computing](../presentations/Rudolfovo_Presentation_Mathi.pdf)
+- **Ezhilmathi Krishnasamy** (2026).
+  **Evaluating OpenMP Offloading for Intra-node Multi-GPU
+  Programming across NVIDIA, AMD, and Intel Architectures:
+  A 3D Heat Transfer Case Study.**
+  *Electronics (MDPI)* — **Accepted: October 8, 2026**.
+  [Preprint](https://arxiv.org/abs/2608.11882) |
+  [PDF](https://arxiv.org/pdf/2608.11882)
 
- - Poster [ASHPC26](https://ashpc.eu/event/27/attachments/154/311/ASHPC26_program.pdf), April 9th, 2026, Vienna, Austria.[Quantum Computing for Scientific Computing](../presentations/ASHPC_Poster_Mathi.pdf)
+
+### Conference Presentations
+
+- **ASHPC26 – Poster and Abstract Presentation**
+  April 8–10, 2026, Vienna, Austria.
+  *Quantum Computing for Scientific Computing.*
+  [Conference](https://ashpc.eu/event/27/) |
+  [Presentation](../presentations/Rudolfovo_Presentation_Mathi.pdf)
+
+- **ASHPC26 – Poster Presentation**
+  April 9, 2026, Vienna, Austria.
+  *Quantum Computing for Scientific Computing.*
+  [Conference Program](https://ashpc.eu/event/27/attachments/154/311/ASHPC26_program.pdf) |
+  [Poster](../presentations/ASHPC_Poster_Mathi.pdf)
