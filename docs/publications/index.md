@@ -6,10 +6,9 @@
   **Evaluating OpenMP Offloading for Intra-node Multi-GPU
   Programming across NVIDIA, AMD, and Intel Architectures:
   A 3D Heat Transfer Case Study.**
-  *Electronics (MDPI)* — **Accepted: October 8, 2026**.
-  [Preprint](https://arxiv.org/abs/2608.11882) |
-  [PDF](https://arxiv.org/pdf/2608.11882)
-
+  *Electronics (MDPI)*, **15(20), 4679**, 2026.
+  [Published Article](https://doi.org/10.3390/electronics15204679) |
+  [DOI](https://doi.org/10.3390/electronics15204679)
 
 ### Conference Presentations
 
